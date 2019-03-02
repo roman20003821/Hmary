@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from 3 line");
-        System.out.println("It is me");
-        System.out.println("The only one");
-        System.out.println("The best");
+        System.out.println("Privet");
+        System.out.println("It is me Roman");
+        System.out.println("The only one Roman");
+        System.out.println("The best Roman");
     }
 }
